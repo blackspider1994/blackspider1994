@@ -11,6 +11,8 @@ Experienced Full Stack Developer with over 7 years of hands-on expertise in Java
 - Elastic Search
 - QraphQL
 - BFF Pattern
+- Twilio
+- Google Analytics
 - AWS (Amazon Web Services)
 - Google Cloud
 - Firebase
