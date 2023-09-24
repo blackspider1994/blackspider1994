@@ -36,7 +36,7 @@ Experienced Full Stack Developer with over 7 years of hands-on expertise in Java
 - BizB (https://bizb.store)
 - Deikho (https://deikho.com)
 - Cash Price MD (https://cashpricemd.com)
-- Blue Clerck (https:app.blueclerck.com)
+- Blue Clerck (https://app.blueclerck.com)
 - Genesis (https://genesis.paklogics.com) 
 
 #### 🌱 Always Learning:
