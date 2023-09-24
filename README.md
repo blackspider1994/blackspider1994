@@ -1,16 +1,51 @@
-### Hi there 👋
+### Hi there! 👋 I'm Usama Zulfiqar
 
-<!--
-**blackspider1994/blackspider1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Full Stack Developer with over 7 years of hands-on expertise in JavaScript, React.js, Node.js, AWS, and Payment Integration. I specialize in creating dynamic, user-friendly web applications tailored to diverse business domains.
 
-Here are some ideas to get you started:
+#### 🔧 Technologies & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (ES6)
+- React.js
+- Node.js
+- Next.js
+- Elastic Search
+- QraphQL
+- BFF Pattern
+- AWS (Amazon Web Services)
+- Google Cloud
+- Firebase
+- Shopify Apps
+- HTML5, CSS3
+- Material-UI (MUI)
+- Tailwind CSS
+- Bootstrap
+- GitHub, Webpack, Git
+- Google Maps Integration
+- Payment Integration (Stripe, Paypal, 2 Checkout, Braintree)
+
+#### 🚀 Key Achievements:
+
+- Successfully delivered real-time projects across diverse business domains, demonstrating adaptability and a knack for shifting priorities to meet project demands.
+- Specialized in Payment Gateway Integration, ensuring seamless financial transactions in applications.
+- Expertise in deploying applications on AWS and configuring NGINX for optimized performance.
+
+#### 🌐 Portfolio & Live Projects:
+
+- Land Of Sneakers (https://store.landofsneakers.com)
+- Partown (https://dev.partown.co)
+- BizB (https://bizb.store)
+- Deikho (https://deikho.com)
+- Cash Price MD (https://cashpricemd.com)
+- Blue Clerck (https:app.blueclerck.com)
+- Genesis (https://genesis.paklogics.com) 
+
+#### 🌱 Always Learning:
+
+I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. I'm open and willing to learn whatever is necessary to accomplish my client's goals.
+
+#### 📬 Let's Connect:
+
+- LinkedIn: https://www.linkedin.com/in/usama-zulfiqar-08091395/
+- Upwork: https://www.upwork.com/freelancers/~019bb3956f976d4901
+
+Looking forward to collaborating on exciting projects and turning visions into reality!
