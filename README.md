@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Usama Zulfiqar
+### Hi there! 👋
 
 Experienced Full Stack Developer with over 7 years of hands-on expertise in JavaScript, React.js, Node.js, AWS, and Payment Gateways Integration. I specialize in creating dynamic, user-friendly web applications tailored to diverse business domains.
 
