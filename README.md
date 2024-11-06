@@ -34,12 +34,11 @@ Experienced Full Stack Developer with over 9 years of hands-on expertise in Java
 #### 🌐 Portfolio & Live Projects:
 
 - Land Of Sneakers (https://store.landofsneakers.com)
-- Partown (https://dev.partown.co)
 - BizB (https://bizb.store)
 - Deikho (https://deikho.com)
 - Cash Price MD (https://cashpricemd.com)
-- Blue Clerck (https://app.blueclerck.com)
-- Genesis (https://genesis.paklogics.com) 
+- Blue Clerck (https://app.blueclerk.com / https://blueclerk.com)
+
 
 #### 🌱 Always Learning:
 
