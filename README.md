@@ -9,7 +9,7 @@ Experienced Full Stack Developer with over 9 years of hands-on expertise in Java
 - Node.js
 - Next.js
 - Elastic Search
-- QraphQL
+- GraphQL
 - BFF Pattern
 - Twilio
 - Google Analytics
